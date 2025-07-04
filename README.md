@@ -1,1 +1,1 @@
-# President-Buckeye-Accelerator-
+# President-Buckeye-Accelerator
