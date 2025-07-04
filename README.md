@@ -14,5 +14,5 @@
 - Targeting a **$100B global market** with applications in healthcare, neurodiversity, and accessibility.
 
 ---
-
-  
+## Deeper look into the slides presented
+[Slides]
